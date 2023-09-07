@@ -13,4 +13,4 @@ This mode will make your game a little bit funnier! But just in case, Make shure
 
 - Enjoy!
 
-* If you want to remove this mode, just replace modded Assembly-CSharp.dll in your game directory with your backup
+- If you want to remove this mode, just replace modded Assembly-CSharp.dll in your game directory with your backup
