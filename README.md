@@ -11,6 +11,6 @@ This mode will make your game a little bit funnier! But just in case, Make shure
 
 4. Replace your original Assembly-CSharp.dll in game folder with this modded Assembly-CSharp.dll
 
--Enjoy!
+- Enjoy!
 
--If you want to remove this mode, just replace modded Assembly-CSharp.dll in your game directory with your backup
+* If you want to remove this mode, just replace modded Assembly-CSharp.dll in your game directory with your backup
