@@ -1,9 +1,6 @@
 # SubnauticaBelowZero-HoverbikeMode
 This mode will make your game a little bit funnier! But just in case, Make shure you have a backup of your original "Assembly-CSharp.dll" file!
 
-# NOT FOR HARDCORE!
-this mode is under development and may cause some bugs if you want to play hardcore, do it at your own risk!
-
 # How to use:
 
 1. Download this code and unzip it, then find modded "Assembly-CSharp.dll" file
